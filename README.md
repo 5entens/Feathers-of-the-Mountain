@@ -10,7 +10,7 @@ Feathers of the Mountain is my first official game made in Pygame.
 In order to play this game without breaking it you will have to upscale your computer screen to 150%, since I currently do not know how to fix it and it was made on a school laptop.
 ## Tech Stack
 
-Pygame
+Python, Pygame
 
 
 ## License
